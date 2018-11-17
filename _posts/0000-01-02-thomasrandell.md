@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+'Talkign about dancing is like dancing about architecture' - Someone
 Use the left arrow to go back!
